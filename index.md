@@ -31,7 +31,6 @@
         </figure>
       </div>
     </section>
-    </header>
     <footer class="container">
     <div class="row">
       <p class="col-sm-4">&copy; 2018 Camas Clubs</p>
