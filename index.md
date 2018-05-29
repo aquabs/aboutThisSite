@@ -1,4 +1,4 @@
-<html>
+ <html>
   <head>
   <meta charset="utf-8"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -34,13 +34,13 @@
    <section class="container">
       <div class="row">
         <figure class="col-sm-3">
-          <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg">
+          <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg" height="300" width="300">
         </figure>
          <figure class="col-sm-3">
            <h2>Why an Impact Project?</h2>
         </figure>
          <figure class="col-sm-3">
-           <img src="https://www.kafourymcdougal.com/wp-content/uploads/2014/12/chsshield-3.gif">
+           <img src="https://www.kafourymcdougal.com/wp-content/uploads/2014/12/chsshield-3.gif" height="300" width="300">
         </figure>
          <figure class="col-sm-3">
            <h2>Our impact project</h2>
