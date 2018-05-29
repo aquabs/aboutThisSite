@@ -10,7 +10,7 @@
     <div class="row">
       <h1 class="col-sm-4">Camas Clubs</h1>
       <nav class="col-sm-8 text-right">
-        <p>home</p>
+        <a href="https://aquabs.github.io/impactProject/"><p>home</p></a>
         <p>news</p>
         <p>contact us</p>
       </nav>
@@ -39,6 +39,20 @@
         <li class="col-sm-1"> <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/medium.svg"></a> </li>
       </ul>
     </div>
+   <section class="container">
+      <div class="row">
+        <figure class="col-sm-3">
+          <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg">
+        </figure>
+         <figure class="col-sm-3">
+           <h2>Why an Impact Project?</h2>
+        </figure>
+         <figure class="col-sm-3">
+           <img src="https://www.kafourymcdougal.com/wp-content/uploads/2014/12/chsshield-3.gif">
+        </figure>
+         <figure class="col-sm-3">
+           <h2>Our impact project</h2>
+        </figure>
   </footer>
   </body>
   </html>
