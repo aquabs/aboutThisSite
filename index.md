@@ -36,10 +36,13 @@
         <figure class="col-sm-6">
          <h2>Why an Impact Project?</h2>
           <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg">
+         <p>In the business or 'real' world you work with a group of people to acheive a task. You are never working alone because every person a team has a different outlook and skill set. The idea with the Impact project is very similar, it is at times frustrating learning how to code because you have a vision already, you just need to find a way to translate that to the computer. By working together you may come across an idea or style from someone else that you never would have thought of. Through collaberation and cooperation on this project we can learn to code together.</P>
         </figure>
          <figure class="col-sm-6">
            <h2>Our impact project</h2>
            <img src="https://www.kafourymcdougal.com/wp-content/uploads/2014/12/chsshield-3.gif">
+          <p>This year for our impact project we are designing a centralized place for information about the different clubs at Camas 
+          highschool. We decided to do this by using a variety of the Core4 activity sets to learn HTML and CSS. Each club member was responsible for a club of their choosing, which they spent a variety of weeks working on enhancing their coding skills through experience. </p>
         </figure>
      </div>
   </section>
