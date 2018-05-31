@@ -47,7 +47,7 @@ footer li img {
   width: 32px;
   height: 32px;
 }
-body img{
+.col-sm-4 img{
   height: 200px;
   width: 200px;
   float:left;
