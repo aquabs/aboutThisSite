@@ -50,5 +50,5 @@ footer li img {
 body img{
   height: 200px;
   width: 200px;
-  float-left;
+  float:left;
 }
