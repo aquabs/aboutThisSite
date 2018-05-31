@@ -33,13 +33,13 @@
     </section>
    <section class="container">
       <div class="row">
-        <figure class="col-sm-6">
-          <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg" height="300" width="300">
-           <h2>Why an Impact Project?</h2>
+        <figure class="col-sm-6"><h2>Why an Impact Project?</h2>
+         <h2>Why an Impact Project?</h2>
+          <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg">
         </figure>
          <figure class="col-sm-6">
-           <img src="https://www.kafourymcdougal.com/wp-content/uploads/2014/12/chsshield-3.gif" height="300" width="300">
            <h2>Our impact project</h2>
+           <img src="https://www.kafourymcdougal.com/wp-content/uploads/2014/12/chsshield-3.gif">
         </figure>
      </div>
   </section>
