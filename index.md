@@ -33,7 +33,7 @@
     </section>
    <section class="container">
       <div class="row">
-        <figure class="col-sm-6"><h2>Why an Impact Project?</h2>
+        <figure class="col-sm-6">
          <h2>Why an Impact Project?</h2>
           <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg">
         </figure>
