@@ -11,8 +11,8 @@
       <h1 class="col-sm-4">Camas Clubs</h1>
       <nav class="col-sm-8 text-right">
         <a href="https://aquabs.github.io/impactProject/"><p>home</p></a>
-        <p>news</p>
-        <p>contact us</p>
+       <a hred="http://chs.camas.wednet.edu/"><p>news</p></a>
+       <a href="https://aquabs.github.io/Contact-Us/"><p>contact us</p></a>
       </nav>
     </div>
   </header>
@@ -36,7 +36,7 @@
         <figure class="col-sm-6">
          <h2>Why an Impact Project?</h2>
           <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg">
-         <p>In the business or 'real' world you work with a group of people to acheive a task. You are never working alone because every person a team has a different outlook and skill set. The idea with the Impact project is very similar, it is at times frustrating learning how to code because you have a vision already, you just need to find a way to translate that to the computer. By working together you may come across an idea or style from someone else that you never would have thought of. Through collaberation and cooperation on this project we can learn to code together.</P>
+         <p>In the business or 'real' world you work with a group of people to acheive a task. You are never working alone because every person a team has a different outlook and skill set. The idea with the Impact project is very similar,learning to tranlate your vision to code. By working together you may come across an idea or style from someone else that you never would have thought of. Through collaberation and cooperation on this project we can learn to code together.</p>
         </figure>
          <figure class="col-sm-6">
            <h2>Our impact project</h2>
