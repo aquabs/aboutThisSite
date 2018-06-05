@@ -36,7 +36,7 @@
         <figure class="col-sm-6">
          <h2>Why an Impact Project?</h2>
           <img src="https://blogs-images.forbes.com/northwesternmutual/files/2015/06/0469-Girls-Who-Code-1940x1293.jpg">
-         <p>In the business or 'real' world you work with a group of people to acheive a task. You are never working alone because every person a team has a different outlook and skill set. The idea with the Impact project is very similar,learning to tranlate your vision to code. By working together you may come across an idea or style from someone else that you never would have thought of. Through collaberation and cooperation on this project we can learn to code together.</p>
+         <p>In the business or 'real' world you work with a group of people to acheive a task. You are never working alone, every person has a different outlook and skill set. The idea with the Impact project is very similar, working together to tranlate your vision into code, learning and improving from each other. Through collaberation and cooperation on this project we can learn to code together.</p>
         </figure>
          <figure class="col-sm-6">
            <h2>Our impact project</h2>
